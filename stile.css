@@ -1,0 +1,13 @@
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.textlogo{
+    line-height: 75px;
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 35pt;
+}
+.login {
+    display: fixed;
+}
